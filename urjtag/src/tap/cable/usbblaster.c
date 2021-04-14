@@ -57,7 +57,7 @@
 
 #define TDO    0
 
-#define FIXED_FREQUENCY 12000000L
+#define FIXED_FREQUENCY 24000000L
 
 typedef struct
 {
